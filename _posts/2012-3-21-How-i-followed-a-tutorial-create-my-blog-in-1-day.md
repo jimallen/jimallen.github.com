@@ -16,9 +16,12 @@ I followed <a href="http://erjjones.github.com/blog/How-I-built-my-blog-in-one-d
   One key component left out is -- you need to edit the rake file to create your posts. This is not done in his example, unless I am missing something. Overall though, its a well thought out article. I would not recommend this method for those of you who cannot write HTML or are scared off by simple Ruby syntax. I like that I can tweak and script the site. I think I am going to have a bit of fun with this. 
 </p>
 <p>
+Feel free to take a look at the <a href="https://github.com/jimallen/jimallen.github.com" target="_blank">code</a>. I made some improvements and fixed a couple of the issues with the original article. If you want to contribute, submit a pull request or fork the repository.
+</p>
+
+<p>
   TODO's --
   <ul>
-    <li>Finish comments integration.</li>
     <li>Tweak the bootstrap layout</li> 
     </ul>
 </p>

@@ -4,7 +4,7 @@
  <title>Eric Jones</title>
  <link href="http://erjjones.github.com/atom.xml" rel="self"/>
  <link href="http://erjjones.github.com/"/>
- <updated>2012-03-22T00:28:36-07:00</updated>
+ <updated>2012-03-22T00:34:29-07:00</updated>
  <id>http://erjjones.github.com</id>
  <author>
    <name>Eric Jones</name>
@@ -36,9 +36,15 @@ I followed &lt;a href=&quot;http://erjjones.github.com/blog/How-I-built-my-blog-
 
 
 &lt;p&gt;
+Feel free to take a look at the &lt;a href=&quot;https://github.com/jimallen/jimallen.github.com&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;. I made some improvements and fixed a couple of the issues with the original article. If you want to contribute, submit a pull request or fork the repository.
+&lt;/p&gt;
+
+
+
+
+&lt;p&gt;
   TODO's --
   &lt;ul&gt;
-    &lt;li&gt;Finish comments integration.&lt;/li&gt;
     &lt;li&gt;Tweak the bootstrap layout&lt;/li&gt; 
     &lt;/ul&gt;
 &lt;/p&gt;

@@ -3,21 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d52779f8-ce94-40f8-a82d-0c6250479111" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/layout.html" afterPath="$PROJECT_DIR$/_layouts/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/Rakefile" afterPath="$PROJECT_DIR$/_site/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" afterPath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" afterPath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/test/index.html" afterPath="$PROJECT_DIR$/_site/blog/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/Nothing/index.html" afterPath="$PROJECT_DIR$/_site/tags/Nothing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" afterPath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="$PROJECT_DIR$/_site/tags/disqus/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="$PROJECT_DIR$/_site/tags/github/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/_site/tags/jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
     </list>
     <ignored path="jimallen.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,10 +36,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.57471263">
+            <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="-16.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="105" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.3994452">
               <folding />
             </state>
           </provider>
@@ -103,15 +100,6 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/tags/github/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="35.84">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/jekyll/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="34.56">
@@ -147,7 +135,6 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" />
         <option value="$PROJECT_DIR$/_layouts/post2.html" />
-        <option value="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
         <option value="$PROJECT_DIR$/_posts/another-test.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-3-21-another-test.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-3-21-test3.markdown" />
@@ -156,6 +143,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/_layouts/layout.html" />
+        <option value="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
       </list>
     </option>
   </component>
@@ -215,20 +203,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -440,7 +414,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6704981" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6704981" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -528,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.022191402">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/tag_gen.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="75" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
@@ -614,7 +581,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.57471263">
+        <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="-16.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="105" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.3994452">
           <folding />
         </state>
       </provider>
