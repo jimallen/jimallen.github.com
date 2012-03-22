@@ -33,8 +33,8 @@ task :start do
 end
 
 desc "Prepare to deploy"
-task :deploy2 do
-  put "Commit Description?"
+task :deploy do
+  puts "Commit Description?"
   description = STDIN.gets.chomp
   sh "cp -rf _site/tags/ tags"
   sh "git add ."
@@ -45,7 +45,7 @@ task :deploy2 do
 
 end
 
-task :default => :deploy2
+task :default => :deploy
 
 
 

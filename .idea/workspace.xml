@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d52779f8-ce94-40f8-a82d-0c6250479111" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/layout.html" afterPath="$PROJECT_DIR$/_layouts/layout.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/Rakefile" afterPath="$PROJECT_DIR$/_site/Rakefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" afterPath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" />
@@ -16,6 +17,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="$PROJECT_DIR$/_site/tags/disqus/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="$PROJECT_DIR$/_site/tags/github/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/_site/tags/jekyll/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
     </list>
     <ignored path="jimallen.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,19 +39,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.8692098">
+            <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tag_gen.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_plugins/tag_gen.rb">
+      <file leaf-file-name="layout.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="75" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
+            <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.57471263">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="10" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="20" selection-start="397" selection-end="397" vertical-scroll-proportion="-1.28">
               <folding />
             </state>
           </provider>
@@ -67,7 +87,7 @@
       <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="0" selection-end="1100" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="0" selection-end="1099" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,16 +96,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="8.32">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/tags/disqus/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="32.0">
+            <state line="35" column="96" selection-start="1399" selection-end="1399" vertical-scroll-proportion="8.32">
               <folding />
             </state>
           </provider>
@@ -94,7 +105,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/github/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.84">
+            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="35.84">
               <folding />
             </state>
           </provider>
@@ -103,7 +114,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/jekyll/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="34.56">
+            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="34.56">
               <folding />
             </state>
           </provider>
@@ -112,16 +123,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/Nothing/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="10" selection-start="1644" selection-end="1644" vertical-scroll-proportion="-20.68">
+            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -151,6 +153,9 @@
         <option value="$PROJECT_DIR$/_posts/2012-3-21-test3.markdown" />
         <option value="$PROJECT_DIR$/_site/Rakefile" />
         <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/_layouts/layout.html" />
       </list>
     </option>
   </component>
@@ -210,6 +215,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -488,20 +507,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="111" selection-end="456" vertical-scroll-proportion="-5.76">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="21" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-12.8">
@@ -512,13 +517,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/post2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="10" selection-start="1644" selection-end="1644" vertical-scroll-proportion="-20.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="51" selection-start="3635" selection-end="3635" vertical-scroll-proportion="1.5862069">
           <folding />
         </state>
       </provider>
@@ -544,6 +542,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tags/disqus/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="32.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tags/github/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="35.84">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tags/jekyll/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="34.56">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tags/Nothing/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tags/bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="96" selection-start="1399" selection-end="1399" vertical-scroll-proportion="8.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="0" selection-end="1099" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="41" selection-start="757" selection-end="757" vertical-scroll-proportion="-11.52">
@@ -551,51 +598,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/disqus/index.html">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="32.0">
+        <state line="2" column="20" selection-start="397" selection-end="397" vertical-scroll-proportion="-1.28">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/github/index.html">
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.84">
+        <state line="7" column="10" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/jekyll/index.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="34.56">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/Nothing/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/bootstrap/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="8.32">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="0" selection-end="1100" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.8692098">
+        <state line="35" column="163" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.57471263">
           <folding />
         </state>
       </provider>
