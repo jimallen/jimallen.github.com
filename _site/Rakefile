@@ -32,5 +32,20 @@ task :start do
   sh "jekyll --server"
 end
 
-task :default => :start
+desc "Prepare to deploy"
+task :deploy2 do
+  put "Commit Description?"
+  description = STDIN.gets.chomp
+  sh "cp -rf _site/tags/ tags"
+  sh "git add ."
+  sh "git commit -am '#{description}'"
+  puts "Commited"
+  sh "git push origin master"
+  puts "Deployed"
+
+end
+
+task :default => :deploy2
+
+
 

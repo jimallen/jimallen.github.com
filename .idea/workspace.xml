@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52779f8-ce94-40f8-a82d-0c6250479111" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/Nothing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/jekyll/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/Nothing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/bootstrap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/disqus/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/github/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/jekyll/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/Rakefile" afterPath="$PROJECT_DIR$/_site/Rakefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" afterPath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/test/index.html" afterPath="$PROJECT_DIR$/_site/blog/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/Nothing/index.html" afterPath="$PROJECT_DIR$/_site/tags/Nothing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" afterPath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="$PROJECT_DIR$/_site/tags/disqus/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="$PROJECT_DIR$/_site/tags/github/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/_site/tags/jekyll/index.html" />
     </list>
     <ignored path="jimallen.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,10 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="49" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
+            <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.8692098">
               <folding />
             </state>
           </provider>
@@ -65,16 +67,16 @@
       <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="14" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="0" selection-end="1100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tags/bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="-0.29885057">
+            <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="8.32">
               <folding />
             </state>
           </provider>
@@ -146,9 +148,9 @@
         <option value="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
         <option value="$PROJECT_DIR$/_posts/another-test.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-3-21-another-test.markdown" />
-        <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/_posts/2012-3-21-test3.markdown" />
         <option value="$PROJECT_DIR$/_site/Rakefile" />
+        <option value="$PROJECT_DIR$/Rakefile" />
       </list>
     </option>
   </component>
@@ -222,46 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tags" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jimallen.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tags" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -575,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="49" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/tag_gen.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="75" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
@@ -592,13 +547,6 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="41" selection-start="757" selection-end="757" vertical-scroll-proportion="-11.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="14" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -633,7 +581,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/tags/bootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="-0.29885057">
+        <state line="34" column="96" selection-start="1322" selection-end="1322" vertical-scroll-proportion="8.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="0" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="24" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.8692098">
           <folding />
         </state>
       </provider>
