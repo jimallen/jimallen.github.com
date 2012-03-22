@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52779f8-ce94-40f8-a82d-0c6250479111" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" afterPath="$PROJECT_DIR$/_posts/2012-3-21-test.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_header.html" afterPath="$PROJECT_DIR$/_includes/post_header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post2.html" afterPath="$PROJECT_DIR$/_layouts/post2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" afterPath="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" afterPath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/Rakefile" afterPath="$PROJECT_DIR$/_site/Rakefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" afterPath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/test/index.html" afterPath="$PROJECT_DIR$/_site/blog/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" afterPath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="$PROJECT_DIR$/_site/tags/disqus/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="$PROJECT_DIR$/_site/tags/github/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/_site/tags/jekyll/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/Nothing/index.html" afterPath="$PROJECT_DIR$/_site/tags/Nothing/index.html" />
     </list>
     <ignored path="jimallen.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-03-21-test.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-03-21-test.markdown">
+      <file leaf-file-name="2012-3-21-test.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-test.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="70" selection-end="97" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,7 +71,7 @@
       <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="311" selection-end="311" vertical-scroll-proportion="0.28337875">
+            <state line="28" column="49" selection-start="743" selection-end="743" vertical-scroll-proportion="0.61035424">
               <folding />
             </state>
           </provider>
@@ -111,24 +104,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.githubwidget.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery.githubwidget.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -148,7 +123,10 @@
         <option value="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" />
         <option value="$PROJECT_DIR$/_layouts/post2.html" />
         <option value="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
+        <option value="$PROJECT_DIR$/_posts/another-test.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-3-21-another-test.markdown" />
         <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/_posts/2012-3-21-test3.markdown" />
       </list>
     </option>
   </component>
@@ -221,6 +199,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -261,6 +285,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method>
+        <option name="RakeTask" enabled="false" />
+      </method>
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -375,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-03-21-test.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="111" selection-end="456" vertical-scroll-proportion="-5.76">
@@ -417,9 +454,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-test.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="70" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="311" selection-end="311" vertical-scroll-proportion="0.28337875">
+        <state line="28" column="49" selection-start="743" selection-end="743" vertical-scroll-proportion="0.61035424">
           <folding />
         </state>
       </provider>
