@@ -6,9 +6,9 @@ desc "Draft a new post"
 task :new do
   puts "What should we call this post for now?"
   name = STDIN.gets.chomp
-  FileUtils.touch("drafts/#{name}.md")
+  FileUtils.touch("_posts/#{name}.md")
 
-  open("drafts/#{name}.md", 'a') do |f|
+  open("_posts/#{name}.md", 'a') do |f|
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""

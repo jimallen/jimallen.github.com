@@ -4,12 +4,21 @@
  <title>Eric Jones</title>
  <link href="http://erjjones.github.com/atom.xml" rel="self"/>
  <link href="http://erjjones.github.com/"/>
- <updated>2012-03-21T20:46:34-07:00</updated>
+ <updated>2012-03-21T21:10:40-07:00</updated>
  <id>http://erjjones.github.com</id>
  <author>
    <name>Eric Jones</name>
  </author>
  
+ 
+ <entry>
+   <title>DRAFT: 2012-03-21-test</title>
+   <link href="http://erjjones.github.com/blog/test"/>
+   <updated>2012-03-21T00:00:00-07:00</updated>
+   <id>http://erjjones.github.com/blog/test</id>
+   <content type="html">&lt;p&gt;This is a test...&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>How I built my blog in one day</title>
@@ -152,7 +161,7 @@
       &lt;script src=&quot;https://gist.github.com/1998382.js&quot;&gt; &lt;/script&gt;     
       &lt;br/&gt;
       &lt;h2&gt;&lt;small&gt;Paging&lt;/small&gt;&lt;/h3&gt;    
-      &lt;p&gt;Ideally this blog would take on the characteristics of a blogazine like feel.  One way I try to achieve that is through pagination.  On the top of each of the blogs I use &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;#&quot; title=&quot;Previous Post: &quot;&gt;&amp;laquo; Previous Blog Post&lt;/a&gt; | &lt;a href=&quot;#&quot; title=&quot;Next Post: &quot;&gt;Next Blog Post &amp;raquo; &lt;/a&gt; at the bottom.&lt;/p&gt;   
+      &lt;p&gt;Ideally this blog would take on the characteristics of a blogazine like feel.  One way I try to achieve that is through pagination.  On the top of each of the blogs I use &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;#&quot; title=&quot;Previous Post: &quot;&gt;&amp;laquo; Previous Blog Post&lt;/a&gt; | &lt;a href=&quot;#&quot; title=&quot;Next Post: DRAFT: 2012-03-21-test&quot;&gt;Next Blog Post &amp;raquo; &lt;/a&gt; at the bottom.&lt;/p&gt;     
       &lt;script src=&quot;https://gist.github.com/1998418.js&quot;&gt; &lt;/script&gt;
       &lt;hr&gt;
       &lt;h2&gt;Instapaper&lt;/h2&gt;
@@ -177,7 +186,7 @@
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;span3 columns&quot;&gt;&amp;nbsp;&lt;/div&gt;
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt;    &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt;      &lt;a href=&quot;/blog/test&quot; title=&quot;Next Post: DRAFT: 2012-03-21-test&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;    &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
