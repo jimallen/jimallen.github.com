@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day"
+title: "How I followed a tutorial to create my blog in one day."
 category: Blogging
 tags: jekyll bootstrap github disqus
 year: 2012
