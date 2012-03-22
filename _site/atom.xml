@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Eric Jones</title>
+ <link href="http://erjjones.github.com/atom.xml" rel="self"/>
+ <link href="http://erjjones.github.com/"/>
+ <updated>2012-03-21T20:46:34-07:00</updated>
+ <id>http://erjjones.github.com</id>
+ <author>
+   <name>Eric Jones</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>How I built my blog in one day</title>
+   <link href="http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day"/>
+   <updated>2012-03-08T00:00:00-08:00</updated>
+   <id>http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span3 columns&quot;&gt;
+      &lt;h3&gt;About this topic&lt;/h3&gt;
+      &lt;p&gt;I have always wanted to build my own blog site and this is how I did so in one day.  You can download all of the source code here.&lt;/p&gt;   
+      &lt;p&gt;&lt;a href=&quot;https://github.com/erjjones/erjjones.github.com/zipball/master&quot; class=&quot;btn btn-info&quot;&gt;Download source&lt;/a&gt;&lt;/p&gt;
+      &lt;br/&gt;
+      &lt;h3&gt;Topic buzz&lt;/h3&gt;
+      &lt;p&gt;What others are thinking. Add to the conversation and generate some chatter.&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;erjjones&quot;&gt;Tweet&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;g:plusone size=&quot;medium&quot;&gt;&lt;/g:plusone&gt;&lt;/p&gt;    
+      &lt;p&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.reddit.com/buttonlite.js?i=2&amp;styled=off&amp;url=http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day&amp;newwindow=1&quot;&gt;&lt;/script&gt;&lt;/p&gt;         
+      &lt;br/&gt;
+      &lt;h3&gt;Read later&lt;/h3&gt;
+      &lt;p&gt;Save this article for a later read or point of reference. &lt;a href=&quot;http://www.instapaper.com/hello2?url=http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day&amp;title=How I built my blog in one day&quot; title=&quot;Save How I built my blog in one day to Instapaper&quot; target=&quot;_blank&quot;&gt;+Instapaper&lt;/a&gt; &lt;a href=&quot;http://www.delicious.com/save&quot; title=&quot;Save How I built my blog in one day to Delicious&quot; onclick=&quot;window.open('http://www.delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;&quot;&gt;+Delicious&lt;/a&gt;&lt;/p&gt;
+      &lt;br/&gt;
+      &lt;h3&gt;Hacker News Feed&lt;/h3&gt;
+      &lt;p&gt;&lt;a href=&quot;http://news.ycombinator.com/item?id=3679495&quot; target=&quot;_blank&quot; title=&quot;Read what others are saying on news.ycombinator right now&quot;&gt;Read what others are saying&lt;/a&gt; on news.ycombinator.&lt;/p&gt;
+      &lt;br/&gt;
+      &lt;h3&gt;Enjoy The Article?&lt;/h3&gt;
+      &lt;p&gt;&lt;br/&gt;&lt;a href=&quot;http://flattr.com/thing/589122/Eric-Jones&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://api.flattr.com/button/flattr-badge-large.png&quot; alt=&quot;Flattr this&quot; title=&quot;Flattr this&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;  
+    &lt;div class=&quot;span9 columns&quot;&gt;
+      &lt;h2&gt;Preface&lt;/h2&gt;
+      &lt;p&gt;How I did this blog is nothing new, as a matter of fact many have done exactly what I did and it is well documented. This post is just on how I did it and since it is all very fresh in my mind I thought I would write a post about it.  For other tutorials on how to do this checkout these:&lt;/p&gt;     
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://jekyllbootstrap.com/&quot; target=&quot;_blank&quot;&gt;jekyllbootstrap&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki&quot; target=&quot;_blank&quot;&gt;mojombo/jekyll&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;hr&gt;    
+      &lt;h2&gt;GitHub&lt;/h2&gt;
+      &lt;p&gt;I choose to use GitHub to host the blog using the GitHub Pages feature by creating a repository using my GitHub username.&lt;/p&gt;  
+      &lt;ul&gt;
+        &lt;li&gt;Setup a free &lt;a href=&quot;https://github.com/signup/free&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; account, and follow the &lt;a href=&quot;http://help.github.com/win-set-up-git/&quot; target=&quot;_blank&quot;&gt;setup instructions&lt;/a&gt;.&lt;/li&gt;      
+        &lt;li&gt;Create a &lt;a href=&quot;http://pages.github.com/&quot; target=&quot;_blank&quot;&gt;GitHub Page&lt;/a&gt; with your username.&lt;/li&gt;        
+      &lt;/ul&gt;
+      &lt;p&gt;It may take a little while for GitHub to setup your page but eventually it will start working and you'll have your GitHub page and an empty repository.&lt;/p&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Jekyll&lt;/h2&gt;
+      &lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot; title=&quot;Go to Jekyll&quot;&gt;Jekyll&lt;/a&gt; is a static site generator.  It is fairly easy to work with and it will allow you to create your blogs (each as a file) and it will know how to plug in simple blog aware properties.&lt;/p&gt;
+      &lt;h2&gt;&lt;small&gt;Get some code&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;To get started here I went the typical &lt;i&gt;lazy route&lt;/i&gt; and ripped down a friends GitHub page that was using Jekyll.  So feel free to &lt;a href=&quot;https://github.com/erjjones/erjjones.github.com/zipball/master&quot;&gt;rip down my GitHub page&lt;/a&gt; if you wish or &lt;a href=&quot;https://github.com/erjjones/erjjones.github.com&quot; target=&quot;_blank&quot;&gt;fork my GitHub page&lt;/a&gt;.  I'm sure the tutorials that are mentioned at the top of this blog go into great detail on how to &lt;code&gt;rake&lt;/code&gt; everything together but I don't always roll that way so to each his own here on this step.&lt;/p&gt;
+      &lt;h2&gt;&lt;small&gt;You reap what you sow&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;Next I copied the files into my repository and started looking around to see how it was put together.  Since I like to dive into things without much reading I was quickly confused how to get the site to load on my local machine.  Luckily for you I have figured that out ... after asking my buddy of course!&lt;/p&gt;
+      &lt;h2&gt;&lt;small&gt;Install Ruby and Jekyll&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;Open a GitBash window&lt;/strong&gt; and get the latest version of Ruby.&lt;/p&gt;
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;gem update --system&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Next&lt;/strong&gt; install Jekyll&lt;/p&gt;
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;   
+      &lt;h2&gt;&lt;small&gt;Spin up a Jekyll Server&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;Open a GitBash window&lt;/strong&gt; and navigate to the directory of your GitHub pages repository&lt;/p&gt;
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;cd c:/username.github.com&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;jekyll --server&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+      &lt;p&gt;This will fire up a local server that will serve up your blog while you are working locally.  You should be able to navigate to something like &lt;i&gt;localhost:4000&lt;/i&gt;.  As long as you leave this GitBash window open you'll have the server running at that port to test your code locally.&lt;/p&gt;
+      &lt;p&gt;...&lt;i&gt;more on Jekyll a bit later&lt;/i&gt;&lt;/p&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Twitter Bootstrap&lt;/h2&gt;
+      &lt;p&gt;Love it or hate it Twitter Bootstrap is undeniably one of the best web frameworks out on the web.  I used Twitter Bootstrap to style my blog site because it is free, already packaged up and ready to go, well documented, it looks good, and it has everything that I needed.&lt;/p&gt;      
+      &lt;br/&gt;
+      &lt;blockquote&gt;
+        &lt;p&gt;When normal sense makes good sense, seek no other sense.&lt;/p&gt;
+        &lt;small&gt;Chris Philbeck&lt;/small&gt;
+      &lt;/blockquote&gt;   
+      &lt;h2&gt;&lt;small&gt;Download Twitter Bootstrap&lt;/small&gt;&lt;/h2&gt;
+      &lt;ul&gt;      
+        &lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/assets/bootstrap.zip&quot; title=&quot;Click to download Twitter Bootstrap&quot;&gt; Download Twitter Bootstrap &lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot; title=&quot;Go to Twitter Bootstrap&quot; target=&quot;_blank&quot;&gt;Twitter Bootstrap&lt;/a&gt; is well documented and has good examples on how to implement the various components.&lt;/li&gt;
+      &lt;/ul&gt;   
+      &lt;h2&gt;&lt;small&gt;Cherry Pick What You Want&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;After you have the Twitter Bootstrap files you can pick and choose what you want.  You may not want all of the images and example css files.  I took most of the css files and put them in my own folder called css.  I also grabbed the images and icons and put them in a new folder for images.  If you reuse doc.css you'll want to open it and change the file path to the background image or comment that line of code out.  Otherwise you'll get a file not found.&lt;/p&gt;   
+      &lt;pre&gt;&lt;code&gt;/*background-image: url(../img/grid-18px-masked.png);*/&lt;/code&gt;&lt;/pre&gt;
+      &lt;p class=&quot;muted&quot;&gt;&lt;strong&gt;*&lt;/strong&gt; If you have pulled down my code you won't need to do this section.  I have already plugged Twitter Bootstrap into my repository.&lt;/p&gt;    
+      &lt;hr&gt;
+      &lt;h2&gt;Feedback Button&lt;/h2&gt;
+      &lt;p&gt;I got this feedback idea from &lt;a href=&quot;http://zachholman.com/&quot; title=&quot;Go to Zach Holmans blog&quot; target=&quot;_blank&quot;&gt;Zach Holman&lt;/a&gt;.&lt;/p&gt;
+      &lt;ul&gt;      
+        &lt;li&gt;Create a repository in your GitHub account called &lt;strong&gt;Feedback&lt;/strong&gt;.&lt;/li&gt;
+        &lt;li&gt;Create a button that links to the &lt;i&gt;new&lt;/i&gt; issue section of that repository.&lt;/li&gt;
+      &lt;/ul&gt; 
+      &lt;p&gt;Now followers can leave you feedback and you can manage it accordingly.&lt;/p&gt;
+      &lt;p&gt;&lt;a class=&quot;btn btn-mini btn-info&quot; href=&quot;https://github.com/erjjones/Feedback/issues/new&quot; title=&quot;Leave Erjjones feedback using GitHub&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-comment icon-white&quot;&gt;&lt;/i&gt; Leave me feedback&lt;/a&gt;&lt;/p&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Dynamic GitHub Followers and Repository Buttons&lt;/h2&gt;
+      &lt;p&gt;I wanted to have a button with my number of GitHub followers and GitHub repositories that was dynamic.  GitHub provides an api of each users information &lt;code&gt;https://api.github.com/users/erjjones&lt;/code&gt;.  Try it out with your GitHub username in place of mine.  &lt;strong&gt;Open a browser&lt;/strong&gt; and paste it in the address bar.&lt;/p&gt;
+      &lt;h2&gt;&lt;small&gt;Cross Domain Problems&lt;/small&gt;&lt;/h3&gt;
+      &lt;p&gt;Locally I was able to get the Ajax call to the api to work just fine.  However, as soon as I pushed my code to GitHub, no go.  This is when I discovered that I was having a classic case of cross domain problems.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1996394.js&quot;&gt; &lt;/script&gt;
+      &lt;p&gt;I work with some super smart guys and gals and as soon as I explained my issue they immediately knew the problem and resolution.&lt;/p&gt;
+      &lt;br/&gt;
+      &lt;h2&gt;&lt;small&gt;JSONP to the Rescue&lt;/small&gt;&lt;/h2&gt;
+      &lt;p&gt;Fortunately &lt;a href=&quot;http://developer.github.com/v3/#json-p-callbacks&quot; title=&quot;Go to GitHub Api documentation&quot; target=&quot;_blank&quot;&gt;GitHub supports JSONP callbacks&lt;/a&gt; and I found a &lt;a href=&quot;https://gist.github.com/&quot; target=&quot;_blank&quot; title=&quot;Go to more information about what a Gist is&quot;&gt;Gist&lt;/a&gt; by another developer that I was able to tweak to achieve my end result.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1996286.js&quot;&gt; &lt;/script&gt;
+      &lt;p&gt;Problem solved and now I have dynamic GitHub follower and GitHub repository buttons.&lt;/p&gt;
+      &lt;p&gt;&lt;a class=&quot;btn btn-success btn-mini&quot; id=&quot;gf&quot; href=&quot;https://github.com/erjjones/followers&quot; title=&quot;Go to Erjjones GitHub followers page&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&amp;nbsp;&lt;a class=&quot;btn btn-success btn-mini&quot; id=&quot;gfr&quot; href=&quot;https://github.com/erjjones/repositories&quot; title=&quot;Go to Erjjones GitHub repositories page&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Social Buzz Widgets&lt;/h2&gt;
+      &lt;p&gt;In order to track how each post is doing in the world of social media I added three social widgets: Twitter, Google+ and Reddit.&lt;/p&gt;
+      &lt;h2&gt;&lt;small&gt;Twitter Widget&lt;/small&gt;&lt;/h2&gt;    
+      &lt;p&gt;This is probably the most documented and well understood widget.  Go to the &lt;a href=&quot;https://dev.twitter.com/docs/twitter-for-websites&quot; title=&quot;Go to the Twitter Developer documentation&quot; target=&quot;_blank&quot;&gt;Twitter Developer's page&lt;/a&gt; to get more information.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1996683.js&quot;&gt; &lt;/script&gt;
+      &lt;p&gt;Just replace your Twitter username with mine and you are good to go.&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;erjjones&quot;&gt;Tweet&lt;/a&gt;&lt;/p&gt;
+      &lt;br/&gt;
+      &lt;h2&gt;&lt;small&gt;Google+ Widget&lt;/small&gt;&lt;/h2&gt;    
+      &lt;p&gt;For the Google Plus widget I don't have it hooked up to my Google+ account.  This widget is really easy to plug and play into your page and will track just the page.  Go to the &lt;a href=&quot;http://www.google.com/webmasters/+1/button/&quot; target=&quot;_blank&quot; title=&quot;Go to Google Plus documentation&quot;&gt;Google Plus button documentation&lt;/a&gt; to learn more about this button.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1996731.js&quot;&gt; &lt;/script&gt;
+      &lt;br/&gt;
+      &lt;p&gt;&lt;g:plusone size=&quot;medium&quot;&gt;&lt;/g:plusone&gt;&lt;/p&gt;  
+      &lt;br/&gt;
+      &lt;h2&gt;&lt;small&gt;Reddit Widget&lt;/small&gt;&lt;/h2&gt; 
+      &lt;p&gt;I am not a big Reddit guy (yet) so we'll see how this goes.  Never the less I added the Reddit widget fairly easily and because of Jekyll I can populate the URL to the blog dynamically.  Go to the &lt;a href=&quot;http://www.reddit.com/buttons/&quot; target=&quot;_blank&quot; title=&quot;Go to Reddit button documentation&quot;&gt;Reddit button documentation&lt;/a&gt; to learn more.&lt;/p&gt;
+      &lt;p&gt;By placing &lt;code&gt;&amp;#123;&amp;#123; page.url &amp;#125;&amp;#125;&lt;/code&gt; Jekyll will put the url to the page.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1996827.js&quot;&gt; &lt;/script&gt;
+      &lt;br/&gt;
+      &lt;p&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.reddit.com/buttonlite.js?i=2&amp;styled=off&amp;url=http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day&amp;newwindow=1&quot;&gt;&lt;/script&gt;&lt;/p&gt;     
+      &lt;hr&gt;
+      &lt;h2&gt;Disqus&lt;/h2&gt;
+      &lt;p&gt;To me it made perfect sense to use &lt;a href=&quot;http://disqus.com/&quot; target=&quot;_blank&quot; title=&quot;Go to Disqus&quot;&gt;Disqus&lt;/a&gt; as a comments provider.  As far as I can tell lots of sites are using this provider so we'll see how it goes.  When you setup an account Disqus will have you setup a &lt;i&gt;shortname&lt;/i&gt; that you will use in your Disqus widget code.  The &lt;i&gt;Admin&lt;/i&gt; tools in Disqus will allow you to delete comments and set a list of blackout words.&lt;/p&gt;   
+      &lt;h2&gt;&lt;small&gt;Total Comments&lt;/small&gt;&lt;/h2&gt;    
+      &lt;p&gt;To get the &lt;a href=&quot;http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day#disqus_thread&quot; data-disqus-identifier=&quot;/blog/How-I-built-my-blog-in-one-day&quot;&gt;&lt;/a&gt; you can put the following code anywhere on your page or any other page as long as you use the url you would like and have the Disqus Widget code on your page, it just works.&lt;/p&gt;
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&quot;http://erjjones.github.com&amp;#123;&amp;#123; page.url &amp;#125;&amp;#125;#disqus_thread&quot; data-disqus-identifier=&quot;&amp;#123;&amp;#123; page.url &amp;#125;&amp;#125;&quot;&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;    
+      &lt;h2&gt;&lt;small&gt;Disqus Widget Code&lt;/small&gt;&lt;/h3&gt;    
+      &lt;script src=&quot;https://gist.github.com/1998023.js&quot;&gt; &lt;/script&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Jekyll Continued&lt;/h2&gt;
+      &lt;h2&gt;&lt;small&gt;Pages and Properties&lt;/small&gt;&lt;/h2&gt;  
+      &lt;p&gt;Using Jekyll you save your blog posts as &lt;code&gt;.markdown&lt;/code&gt; files which contain a header section like the code sample below and html, css, javascript, etc.&lt;/p&gt;
+      &lt;script src=&quot;https://gist.github.com/1998470.js&quot;&gt; &lt;/script&gt;
+      &lt;p&gt;To create the header of every blog post I simply &lt;i&gt;include&lt;/i&gt; a template header that has the following properties set.&lt;/p&gt;   
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;h4&amp;gt;&amp;lt;strong&amp;gt;&amp;#123;&amp;#123; page.date | date: &quot;%B %e, %Y&quot; &amp;#125;&amp;#125; &amp;lt;small&amp;gt;. &amp;#123;&amp;#123; page.category &amp;#125;&amp;#125; .&amp;lt;/small&amp;gt; &amp;#123;&amp;#123; page.title &amp;#125;&amp;#125;&amp;lt;/strong&amp;gt;&amp;lt;/h4&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;    
+      &lt;h4&gt;&lt;strong&gt;March  8, 2012 &lt;small&gt;. Coding .&lt;/small&gt; How I built my blog in one day&lt;/strong&gt;&lt;/h4&gt;
+      &lt;br/&gt;
+      &lt;h2&gt;&lt;small&gt;Listing all your posts&lt;/small&gt;&lt;/h2&gt;    
+      &lt;p&gt;On the home page I list all of the blog posts.  The code below will allow you to list all of your posts in the &lt;code&gt;_posts&lt;/code&gt; folder.  By naming the .markdown files with the date in the file name like &lt;code&gt;2012-03-08-How-I-built-my-blog.markdown&lt;/code&gt;&lt;/p&gt; 
+      &lt;script src=&quot;https://gist.github.com/1998382.js&quot;&gt; &lt;/script&gt;     
+      &lt;br/&gt;
+      &lt;h2&gt;&lt;small&gt;Paging&lt;/small&gt;&lt;/h3&gt;    
+      &lt;p&gt;Ideally this blog would take on the characteristics of a blogazine like feel.  One way I try to achieve that is through pagination.  On the top of each of the blogs I use &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;#&quot; title=&quot;Previous Post: &quot;&gt;&amp;laquo; Previous Blog Post&lt;/a&gt; | &lt;a href=&quot;#&quot; title=&quot;Next Post: &quot;&gt;Next Blog Post &amp;raquo; &lt;/a&gt; at the bottom.&lt;/p&gt;   
+      &lt;script src=&quot;https://gist.github.com/1998418.js&quot;&gt; &lt;/script&gt;
+      &lt;hr&gt;
+      &lt;h2&gt;Instapaper&lt;/h2&gt;
+      &lt;p&gt;Adding an &lt;a href=&quot;http://www.instapaper.com&quot; target=&quot;_blank&quot; title=&quot;Go to Instapaper&quot;&gt;Instapaper&lt;/a&gt; link is just another piece of functionality to enhance integration with other web tools.  All you need to do is build the link below and add your &lt;i&gt;url&lt;/i&gt; and &lt;i&gt;title&lt;/i&gt;.&lt;/p&gt;   
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;http://www.instapaper.com/hello2?url=http://erjjones.github.com&amp;#123;&amp;#123; page.url &amp;#125;&amp;#125;&amp;title=&amp;#123;&amp;#123; page.title &amp;#125;&amp;#125;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.instapaper.com/hello2?url=http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day&amp;title=How I built my blog in one day&quot; title=&quot;Save How I built my blog in one day to Instapaper&quot; target=&quot;_blank&quot;&gt;Read later&lt;/a&gt;&lt;/p&gt;
+      &lt;hr&gt;    
+      &lt;h2&gt;Y Combinator Submit Icon&lt;/h2&gt;
+      &lt;p&gt;&lt;a href=&quot;http://news.ycombinator.com/&quot; target=&quot;_blank&quot; title=&quot;Go to news.ycombinator.com&quot;&gt;Y Combinator&lt;/a&gt; is my all time favorite news feed and adding a Y Combinator submit option just seemed right.  All you need to do is build the link below and add your &lt;i&gt;url&lt;/i&gt; and &lt;i&gt;title&lt;/i&gt;.&lt;/p&gt;  
+      &lt;p&gt;&lt;pre&gt;&lt;code&gt;http://news.ycombinator.com/submitlink?u=http://erjjones.github.com&amp;#123;&amp;#123; page.url &amp;#125;&amp;#125;&amp;t=&amp;#123;&amp;#123; page.title &amp;#125;&amp;#125;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://news.ycombinator.com/submitlink?u=http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day&amp;t=How I built my blog in one day&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/yc500.gif&quot; title=&quot;Submit How I built my blog in one day to Hacker News&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;hr&gt;                
+      &lt;h2&gt;In Conclusion&lt;/h2&gt;
+      &lt;p&gt;I hope this sparks you to try out GitHub, Jekyll, Twitter Bootstrap and other open source web resources.  I have just begun to scratch the surface here and this blog doesn't attempt to cover all of details but I would like to hear what other cool integrations people are doing on their blogs.&lt;/p&gt;     
+      &lt;hr&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span3 columns&quot;&gt;&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;span9 column&quot;&gt;
+            &lt;p class=&quot;pull-right&quot;&gt;    &lt;/p&gt;  
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span3 columns&quot;&gt;&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;span9 columns&quot;&gt;    
+        &lt;h2&gt;Comments Section&lt;/h2&gt;
+        &lt;p&gt;Feel free to comment on the post but keep it clean and on topic.&lt;/p&gt; 
+        &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+        &lt;script type=&quot;text/javascript&quot;&gt;
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'ericjones'; // required: replace example with your forum shortname
+            var disqus_identifier = '/blog/How-I-built-my-blog-in-one-day';
+            var disqus_url = '/blog/How-I-built-my-blog-in-one-day';
+            
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        &lt;/script&gt;
+        &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+        &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;blog comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- Twitter --&gt;
+
+
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+
+
+
+
+&lt;!-- Google + --&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
