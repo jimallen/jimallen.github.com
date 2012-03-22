@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: "How I followed a tutorial to create my blog in one day."
 category: Blogging
 tags: jekyll bootstrap github disqus

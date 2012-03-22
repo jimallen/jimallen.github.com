@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52779f8-ce94-40f8-a82d-0c6250479111" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_header.html" afterPath="$PROJECT_DIR$/_includes/post_header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post2.html" afterPath="$PROJECT_DIR$/_layouts/post2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" afterPath="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" afterPath="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" afterPath="$PROJECT_DIR$/_site/blog/How-i-followed-a-tutorial-create-my-blog-in-1-day/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/test/index.html" afterPath="$PROJECT_DIR$/_site/blog/test/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-08-How-I-built-my-blog-in-one-day.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" afterPath="$PROJECT_DIR$/_site/drafts/2012-03-22-Part-two-how-I-built-my-blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/Nothing/index.html" afterPath="$PROJECT_DIR$/_site/tags/Nothing/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" afterPath="$PROJECT_DIR$/_site/tags/bootstrap/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/disqus/index.html" afterPath="$PROJECT_DIR$/_site/tags/disqus/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags/github/index.html" afterPath="$PROJECT_DIR$/_site/tags/github/index.html" />
@@ -43,10 +48,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="51" selection-start="3635" selection-end="3635" vertical-scroll-proportion="0.35">
+            <state line="73" column="51" selection-start="3635" selection-end="3635" vertical-scroll-proportion="-6.44">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-03-21-test.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-03-21-test.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="21" selection-start="311" selection-end="311" vertical-scroll-proportion="0.28337875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="10" selection-start="1644" selection-end="1644" vertical-scroll-proportion="-20.68">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="111" selection-end="456" vertical-scroll-proportion="-5.76">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/post_header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="21" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-12.8">
               <folding />
             </state>
           </provider>
@@ -84,6 +143,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_includes/post_header.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2012-03-21-test.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/post2.html" />
+        <option value="$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md" />
+        <option value="$PROJECT_DIR$/Rakefile" />
       </list>
     </option>
   </component>
@@ -156,7 +221,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,6 +236,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimallen.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,12 +273,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1400" height="878" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32950193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6704981" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -291,7 +370,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="51" selection-start="3635" selection-end="3635" vertical-scroll-proportion="0.35">
+        <state line="73" column="51" selection-start="3635" selection-end="3635" vertical-scroll-proportion="-6.44">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-03-21-test.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="111" selection-end="456" vertical-scroll-proportion="-5.76">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="21" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-12.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="10" selection-start="1644" selection-end="1644" vertical-scroll-proportion="-20.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-3-21-How-i-followed-a-tutorial-create-my-blog-in-1-day.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="311" selection-end="311" vertical-scroll-proportion="0.28337875">
           <folding />
         </state>
       </provider>

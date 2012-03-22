@@ -10,8 +10,8 @@ task :new do
 
   open("_posts/#{name}.md", 'a') do |f|
     f.puts "---"
-    f.puts "layout: post"
-    f.puts "title: \"DRAFT: #{name}\""
+    f.puts "layout: post2"
+    f.puts "title: \"#{name}\""
     f.puts "---"
   end
 end
