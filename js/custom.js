@@ -5,7 +5,7 @@ jQuery(document).ready(function() {
 	
 	JSONP( 'https://api.github.com/users/jimallen?callback=?', function( response ) {
 		var data = response.data;
-		//$('#gf').text(data.followers + ' GitHub Followers');
+		$('#gf').text(data.followers + ' GitHub Followers');
         $('#gfr').text(data.public_repos + ' GitHub Repos');
 	});
 	

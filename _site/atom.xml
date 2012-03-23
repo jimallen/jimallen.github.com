@@ -4,21 +4,12 @@
  <title>Eric Jones</title>
  <link href="http://erjjones.github.com/atom.xml" rel="self"/>
  <link href="http://erjjones.github.com/"/>
- <updated>2012-03-22T00:34:29-07:00</updated>
+ <updated>2012-03-22T23:49:18-07:00</updated>
  <id>http://erjjones.github.com</id>
  <author>
    <name>Eric Jones</name>
  </author>
  
- 
- <entry>
-   <title>First Post.</title>
-   <link href="http://erjjones.github.com/blog/test"/>
-   <updated>2012-03-21T00:00:00-07:00</updated>
-   <id>http://erjjones.github.com/blog/test</id>
-   <content type="html">&lt;p&gt;Hello World..&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>How I followed a tutorial to create my blog in one day.</title>
@@ -49,6 +40,15 @@ Feel free to take a look at the &lt;a href=&quot;https://github.com/jimallen/jim
     &lt;/ul&gt;
 &lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First Post.</title>
+   <link href="http://erjjones.github.com/blog/test"/>
+   <updated>2012-03-20T00:00:00-07:00</updated>
+   <id>http://erjjones.github.com/blog/test</id>
+   <content type="html">&lt;p&gt;Hello World..&lt;/p&gt;
 </content>
  </entry>
  
