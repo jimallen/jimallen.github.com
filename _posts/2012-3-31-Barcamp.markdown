@@ -6,7 +6,7 @@ year: 2012
 month: 3
 day: 31
 published: true
-tags: blog_post
+tags: PDX Barcamp
 ---
 
 
