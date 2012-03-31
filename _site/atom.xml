@@ -4,7 +4,7 @@
  <title>Eric Jones</title>
  <link href="http://erjjones.github.com/atom.xml" rel="self"/>
  <link href="http://erjjones.github.com/"/>
- <updated>2012-03-31T15:56:01-07:00</updated>
+ <updated>2012-03-31T16:20:24-07:00</updated>
  <id>http://erjjones.github.com</id>
  <author>
    <name>Eric Jones</name>
@@ -41,7 +41,7 @@
         &lt;/p&gt;
         
     &lt;h3&gt;Forth Session&lt;/h3&gt;
-    &lt;p&gt;A great discussion of web security. The conversion covered &lt;a href=&quot;http://ssl.entrust.net/blog/?p=615&quot;&gt;Public Key Pinning&lt;/a&gt; and other new technologies about SSL. &lt;/p&gt;
+    &lt;p&gt;A great discussion of web security. The conversion covered &lt;a target=&quot;_blank&quot; href=&quot;http://ssl.entrust.net/blog/?p=615&quot;&gt;Public Key Pinning&lt;/a&gt; and other new technologies about SSL. A new attack vector we talked about was &lt;a target=&quot;_blank&quot; href=&quot;http://en.wikipedia.org/wiki/Cross-site_request_forgery&quot;&gt;Cross-site request forgery&lt;/a&gt;. Assume ALL users are trying to attack you! Validate everything.&lt;/p&gt;
 
 &lt;/p&gt;
 
