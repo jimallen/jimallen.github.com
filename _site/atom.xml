@@ -4,12 +4,45 @@
  <title>Eric Jones</title>
  <link href="http://erjjones.github.com/atom.xml" rel="self"/>
  <link href="http://erjjones.github.com/"/>
- <updated>2012-03-22T23:49:18-07:00</updated>
+ <updated>2012-03-31T15:23:31-07:00</updated>
  <id>http://erjjones.github.com</id>
  <author>
    <name>Eric Jones</name>
  </author>
  
+ 
+ <entry>
+   <title>Portland Barcamp 2012</title>
+   <link href="http://erjjones.github.com/blog/Barcamp"/>
+   <updated>2012-03-31T00:00:00-07:00</updated>
+   <id>http://erjjones.github.com/blog/Barcamp</id>
+   <content type="html">&lt;p&gt;Made the journey up to Portland for my first &lt;a href=&quot;http://barcampportland.org/&quot;&gt;Barcamp&lt;/a&gt;. Joined by a couple of buddies from the KMUZ, we arrived to witness the scheduling process. I decided to just observe this time, but Nate pitched a session. It was a very interesting process.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;
+    &lt;h3&gt;First Session&lt;/h3&gt;
+    &lt;p&gt;
+        My first session of the morning was lead by a contributor to the linux kernel. Lot's deep CS discussion.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Second Session&lt;/h3&gt;
+    &lt;p&gt;Next, I participated in a discussion on bug data and some of the issues created from user input. &lt;/p&gt;
+    
+    &lt;h3&gt;Lunch&lt;/h3&gt;
+    &lt;p&gt;We grabbed lunch at a great middle-eastern deli called &lt;a target=&quot;_blank&quot; href=&quot;http://www.yelp.com/biz/all-spice-deli-portland&quot;&gt;All Spice Deli&lt;/a&gt;. 
+    &lt;h3&gt;Third Session&lt;/h3&gt;
+    &lt;p&gt;This session focused on testing/UX testing. Learned a lot about &lt;a target=&quot;_blank&quot; href=&quot;http://en.wikipedia.org/wiki/Boundary_testing&quot;&gt;boundary testing&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;http://en.wikipedia.org/wiki/Equivalence_partitioning&quot;&gt;Equivalence partitioning&lt;/a&gt; and other testing procdures
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://code.google.com/p/fighting-layout-bugs&quot;&gt;http://code.google.com/p/fighting-layout-bugs/&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/GaloisInc/FiveUI&quot;&gt;https://github.com/GaloisInc/FiveUI&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/p&gt;
+&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>How I followed a tutorial to create my blog in one day.</title>
