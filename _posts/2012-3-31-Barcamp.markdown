@@ -33,5 +33,8 @@ tags: PDX_Barcamp
 		
 	<h3>Forth Session</h3>
 	<p>A great discussion of web security. The conversion covered <a target="_blank" href="http://ssl.entrust.net/blog/?p=615">Public Key Pinning</a> and other new technologies about SSL. A new attack vector we talked about was <a target="_blank" href="http://en.wikipedia.org/wiki/Cross-site_request_forgery">Cross-site request forgery</a>. Assume ALL users are trying to attack you! Validate everything.</p>
+	
+	<h3>Conclusion</h3>
+	<p>Overall it was a great experience. I would do it again in a heart beat. Maybe next time I will lead a session.</p>
 
 </p>
