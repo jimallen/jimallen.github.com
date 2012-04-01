@@ -15,7 +15,7 @@ tags: PDX_Barcamp
 <p>
 	<h3>First Session</h3>
 	<p>
-		My first session of the morning was lead by a contributor to the linux kernel. Lot's deep CS discussion.
+		My first session of the morning was led by a contributor to the Linux kernel. Lots of deep CS discussion.
 	</p>
 
 	<h3>Second Session</h3>
@@ -24,17 +24,17 @@ tags: PDX_Barcamp
 	<h3>Lunch</h3>
 	<p>We grabbed lunch at a great middle-eastern deli called <a target="_blank" href="http://www.yelp.com/biz/all-spice-deli-portland">All Spice Deli</a>. 
 	<h3>Third Session</h3>
-	<p>This session focused on testing/UX testing. Learned a lot about <a target="_blank" href="http://en.wikipedia.org/wiki/Boundary_testing">boundary testing</a>, <a target="_blank" href="http://en.wikipedia.org/wiki/Equivalence_partitioning">Equivalence partitioning</a> and other testing procdures
+	<p>This session focused on testing/UX testing. Learned a lot about <a target="_blank" href="http://en.wikipedia.org/wiki/Boundary_testing">boundary testing</a>, <a target="_blank" href="http://en.wikipedia.org/wiki/Equivalence_partitioning">Equivalence partitioning</a> and other testing procedures.
 		<ul>
 			<li><a target="_blank" href="http://code.google.com/p/fighting-layout-bugs">http://code.google.com/p/fighting-layout-bugs/</a></li>
 			<li><a target="_blank" href="https://github.com/GaloisInc/FiveUI">https://github.com/GaloisInc/FiveUI</a></li>
 		</ul>
 		</p>
 		
-	<h3>Forth Session</h3>
+	<h3>Fourth Session</h3>
 	<p>A great discussion of web security. The conversion covered <a target="_blank" href="http://ssl.entrust.net/blog/?p=615">Public Key Pinning</a> and other new technologies about SSL. A new attack vector we talked about was <a target="_blank" href="http://en.wikipedia.org/wiki/Cross-site_request_forgery">Cross-site request forgery</a>. Assume ALL users are trying to attack you! Validate everything.</p>
 	
-	<h3>Conclusion</h3>
-	<p>Overall it was a great experience. I would do it again in a heart beat. Maybe next time I will lead a session.</p>
+	<h3>Conclusion.</h3>
+	<p>Overall it was a great experience. I would do it again in a heartbeat. Maybe next time I will lead a session.</p>
 
 </p>
